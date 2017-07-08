@@ -1,6 +1,6 @@
 " \file vimrc config file.
 "
-" \author allen.l
+" \author Zhecheng.ma
 " \version: 1.2.0
 "
 " \note i use block to split settings.example:coding settings only set syntax of coding.
@@ -26,7 +26,7 @@ call vundle#rc()
 
 " let vundle manage vundle  
 " *** download vundle : git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
-Bundle 'lp112124/vimplugin'
+Bundle 'Majere2016/vimplugin'
 Bundle 'L9'  
 Bundle 'A.vim'
 Bundle 'ctrlpvim/ctrlp.vim'
